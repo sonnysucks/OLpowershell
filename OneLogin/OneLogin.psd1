@@ -34,7 +34,8 @@
         "Remove-OneLoginUserCustomAttribute",
         "Remove-OneLoginUserRole",
         "Set-OneLoginUser",
-        "Set-OneLoginUserCustomAttribute"
+        "Set-OneLoginUserCustomAttribute",
+        "Set-OneLoginUserMFA"
     )
 
     PrivateData = @{
